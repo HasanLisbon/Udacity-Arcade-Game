@@ -84,7 +84,10 @@ Player.prototype.handleInput = function (keyPress) {
         setTimeout(() => {
             this.x = 202;
             this.y = 405;
-        }, 800);
+        swal({
+                title:'WOW! You have won!',
+            })
+        }, 200);
     };
 };
 //creating an empty array of enemies and creating another array for the enemy Y postion
