@@ -1,2 +1,2 @@
 # Udacity-Arcade-Game
-You can use the arrow keys to play the game and to play the game live click here #
+You can use the arrow keys to play the game and to play the game live [click here](https://hasanlisbon.github.io/Udacity-Arcade-Game/.)
